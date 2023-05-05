@@ -1,5 +1,5 @@
 # Rob-TempConverter
-Temperature Converter
+
 This repository contains a visually appealing temperature converter application built using PyQt5. The application allows users to input a temperature value and convert it between Celsius (°C) and Fahrenheit (°F) units. The user interface is designed with custom styling, including a modern font, size, and color scheme, as well as dynamic button effects.
 
 Features:
