@@ -4,17 +4,17 @@ This repository contains a visually appealing temperature converter application 
 
 ## Features:
 
-Visually appealing user interface with custom styling
-Easy temperature input with a line edit widget
-Unit selection using a combo box widget
-Instant temperature conversion with a click of a button
-Displays the output temperature with appropriate °C or °F symbol
+* Visually appealing user interface with custom styling
+* Easy temperature input with a line edit widget
+* Unit selection using a combo box widget
+* Instant temperature conversion with a click of a button
+* Displays the output temperature with appropriate °C or °F symbol
 
 ## Requirements:
 
-Python 
+* Python 
 
-PyQt5 library
+* PyQt5 library
 
 ## Usage:
 
