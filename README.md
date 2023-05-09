@@ -12,7 +12,8 @@ Displays the output temperature with appropriate °C or °F symbol
 
 ## Requirements:
 
-Python 3.x
+Python 
+
 PyQt5 library
 
 ## Usage:
