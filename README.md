@@ -26,3 +26,5 @@ This repository contains a visually appealing temperature converter application 
 6. The converted temperature will be displayed in the output label with the appropriate °C or °F symbol
 
 Feel free to contribute by adding more features, enhancing the user interface, or fixing any issues. Pull requests are welcome!
+
+![Temp Conver](https://github.com/Kinginrob/Rob-TempConverter/assets/89039139/e7422782-e22e-4950-8a2e-0839202dfb37)
